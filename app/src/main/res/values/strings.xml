@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
-    <string name="happy_birthday_text">Happy Birthday, NAME!</string>
     <string name="signature_text">From Emily.</string>
+    <string name="roll_dice_button">How old are you today?</string>
+    <string name="happy_birthday_text">Happy Birthday %1$s!</string>
+    <string name="old_text">You are old!</string>
+    <string name="young_text">You are young!</string>
 </resources>
